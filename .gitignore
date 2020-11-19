@@ -1,0 +1,4 @@
+gerbers/*.gbr
+gerbers/*.drl
+_autosave*
+fp-info-cache
